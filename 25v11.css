@@ -1,0 +1,18 @@
+.serch{
+    display: flex;
+    justify-content:center;
+}
+
+.a1{
+    font-size: 40px;
+    margin-top: 20px;
+}
+.a2{
+    font-size: 37px;
+}
+.head{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    margin-top:-50px;
+}
